@@ -18,4 +18,4 @@ Jupyter Notebook
 
 or
 
-`pip install notebook`
+`pip3 install notebook`
